@@ -9,3 +9,4 @@ out/
 *.sql
 *.pem
 *.key
+!database/schema.sql
